@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/NEXUS_Lab_JeuSerieu/NexusLabsJeuSerieu/Content/Levels/Artiste3DGeneraliste/L_Artiste3DGeneraliste_Main.umap",
+				"C:/NEXUS_Lab_JeuSerieu/NexusLabsJeuSerieu/Content/Levels/Artiste3DGeneraliste/Sous-niveaux/L_Artiste3DGeneraliste_Blocking.umap"
+			]
+		}
+	]
+}
