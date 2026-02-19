@@ -26,6 +26,14 @@
 		{
 			"Name": "Volumetrics",
 			"Enabled": true
+		},
+		{
+			"Name": "USDImporter",
+			"Enabled": true
+		},
+		{
+			"Name": "USDCore",
+			"Enabled": true
 		}
 	]
 }
