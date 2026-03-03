@@ -1,0 +1,20 @@
+---,Texte,Personne,Emotion
+D_001,"La topologie est prête, vous pouvez travailler dessus.","Modeleur","Neutre"
+D_002,"Parfait, j’applique les premières textures.","Textureur","Neutre"
+D_003,"Je lance un test d’animation pour vérifier les déformations.","Animateur","Neutre"
+D_004,"Je mets en place le layout pour la démo.","Concepteur2D","Neutre"
+
+D_005,"Attends… pourquoi le bras se plie comme ça ?","Animateur","Surpris"
+D_006,"C’est étrange, les normales ont l’air inversées.","Textureur","Surpris"
+D_007,"Ce n’était pas comme ça sur ma version.","Modeleur","Surpris"
+D_008,"Le visuel ne correspond plus au concept validé…","Concepteur2D","Triste"
+
+D_009,"On va devoir corriger le rig avant d’aller plus loin.","Animateur","Neutre"
+D_010,"D’accord, je vais ajuster la géométrie à la base.","Modeleur","Neutre"
+D_011,"Ça veut dire refaire certaines textures…","Textureur","Triste"
+D_012,"On perd du temps à cause de ces changements constants.","Concepteur2D","Faché"
+
+D_013,"Je n’ai rien modifié sans prévenir !","Modeleur","Faché"
+D_014,"Calmez-vous, on peut encore rattraper ça.","Animateur","Neutre"
+D_015,"Bon… je relance un baking propre.","Textureur","Neutre"
+D_016,"Très bien, on valide étape par étape cette fois.","Concepteur2D","Neutre"
