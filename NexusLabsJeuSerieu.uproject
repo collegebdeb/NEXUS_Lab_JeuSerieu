@@ -34,6 +34,10 @@
 		{
 			"Name": "USDCore",
 			"Enabled": true
+		},
+		{
+			"Name": "NiagaraFluids",
+			"Enabled": true
 		}
 	]
 }
