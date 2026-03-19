@@ -1,0 +1,5 @@
+Content/Megascan/** filter=lfs diff=lfs merge=lfs -text
+Content/Assets/** filter=lfs diff=lfs merge=lfs -text
+Content/Fab/** filter=lfs diff=lfs merge=lfs -text
+Content/MSPresets/** filter=lfs diff=lfs merge=lfs -text
+Content/Art/** filter=lfs diff=lfs merge=lfs -text
