@@ -1,0 +1,11 @@
+---,Prompt
+Jump,"NSLOCTEXT(""[0B8C63AC3FF99AEE7CB93821C12DFF25]"", ""F2B1621841C867A7100F48BF7DF4A40A"", ""Appuie sur {IA_Jump} pour sauter"")"
+Move,"NSLOCTEXT(""[MOVE_ID]"", ""[MOVE_KEY]"", ""Utilise {IA_Move} pour te déplacer"")"
+Look,"NSLOCTEXT(""[LOOK_ID]"", ""[LOOK_KEY]"", ""Utilise {IA_Look} pour regarder autour de toi"")"
+Interact,"NSLOCTEXT(""[INTERACT_ID]"", ""[INTERACT_KEY]"", ""Appuie sur {IA_Interact} pour interagir"")"
+Sprint,"NSLOCTEXT(""[SPRINT_ID]"", ""[SPRINT_KEY]"", ""Maintiens {IA_Sprint} pour sprinter"")"
+Pause,"NSLOCTEXT(""[PAUSE_ID]"", ""[PAUSE_KEY]"", ""Appuie sur {IA_Pause} pour mettre en pause"")"
+Paint,"NSLOCTEXT(""[PAINT_ID]"", ""[PAINT_KEY]"", ""Appuie sur {IA_Paint} pour peindre"")"
+PaintSwitchColor,"NSLOCTEXT(""[PAINTSC_ID]"", ""[PAINTSC_KEY]"", ""Appuie sur {IA_Paint_SwitchColor} pour changer de couleur"")"
+PaintRadiusUp,"NSLOCTEXT(""[PAINTRU_ID]"", ""[PAINTRU_KEY]"", ""Appuie sur {IA_Paint_ChangeRadiusUp} pour augmenter la taille du pinceau"")"
+PaintRadiusDown,"NSLOCTEXT(""[PAINTRD_ID]"", ""[PAINTRD_KEY]"", ""Appuie sur {IA_Paint_ChangeRadiusDown} pour diminuer la taille du pinceau"")"
