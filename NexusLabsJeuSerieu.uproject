@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.6",
+	"EngineAssociation": "{11C6962A-459A-2DF5-004F-54A8C3559133}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -37,6 +37,10 @@
 		},
 		{
 			"Name": "NiagaraFluids",
+			"Enabled": true
+		},
+		{
+			"Name": "CommonUI",
 			"Enabled": true
 		}
 	]
